@@ -1,0 +1,1 @@
+In Jupyter Notebook you can execute Terminal commands in the notebook cells by prepending an exclamation point/bang( ! ) to the beginning of the command. This can be useful for many things such as getting information without having to open a Terminal/Command Prompt, or installing a conda package you are trying to use
